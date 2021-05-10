@@ -132,7 +132,7 @@ Posteriormente será necesario declarar un arreglo para añadir las caracteristi
 
 ### Al ejecutar en tu navegador deberías tener algo como esto.
 
-![screenshot](https://raw.githubusercontent.com/sampach95/Lineas/master/img/multiparte.png )
+![screenshot](https://raw.githubusercontent.com/sampach95/ObjetosMultiparte/master/img/multiparte.png )
 
 Haz click en el siguiente enlace para volver a la pagina inicial
 https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
